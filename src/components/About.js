@@ -3,12 +3,12 @@ import AnimatedText from "./AnimatedText";
 import AboutPopup from "./popup/AboutPopup";
 
 const aboutData = {
-  firstName: "David",
-  lastName: "Parker",
-  bithday: "01.07.1990",
+  firstName: "ADAM",
+  lastName: "ZEBOLSKY",
+  bithday: "11.19.1992",
   address: "Avon str. 22, NYC, USA",
   phn: "+77 022 155 02 02",
-  email: "example@gmail.com",
+  email: "toflyinsky.dev919@gmail.com",
   serviceLists: [
     "Website Development",
     "Digital Experience",
@@ -80,8 +80,8 @@ const About = () => {
               </div>
               <div className="text">
                 <p>
-                  My name is <span>David Parker.</span> I am a graphic designer,
-                  and {`I'm`} very passionate and dedicated to my work. With 20
+                  My name is <span>ADAM ZEBOLSKY.</span> I am a full stack developer focused on JS frameworks,
+                  and {`I'm`} very passionate and dedicated to my work. With over 8
                   years experience as a professional a graphic designer, I have
                   acquired the skills and knowledge.
                 </p>
